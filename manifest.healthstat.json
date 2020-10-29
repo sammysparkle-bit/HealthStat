@@ -1,0 +1,23 @@
+{
+    "short_name" : "HealthStat",
+    "name" : "HealthStat: Know your COVID-19 Status",
+    "description" : "COVID-19 Test Web App",
+    "icons" : [{
+        "src" : "covid-144.144.png",
+        "type" : "image/png",
+        "sizes" : "144x144",
+        "purpose":"any"
+    },
+    {
+        "src" : "covid-512.512.png ",
+        "type" : "image/png",
+        "sizes" : "512x512",
+        "purpose":"any"}],
+
+        "start_url" : "/healthstat.html",
+        "display" : "minimal-ui",
+        "background_color" : "#FFFAFA",
+        "theme_color" : "#808080",
+        "scope" : "/healthstat.html"
+
+}
